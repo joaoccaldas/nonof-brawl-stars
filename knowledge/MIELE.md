@@ -35,15 +35,18 @@
 | AI/ML integration in FP&A | ACTIVE | João | Kasper, Henrik, Wei, FP&A/Nordic leadership | Direction is shifting from idea to operating-model redesign: data architecture, automation, better forecasting, reduced manual reporting |
 | Bonus accrual / CRM workflow hardening | ACTIVE | João / Kasper | Barbara, Delphine, shared-service/ESF, local controllers | Focus on agreement setup, reprocessing, settlements, workflow documentation, reducing repetitive file handling |
 | Forecast-one model redesign | ACTIVE | João | Kasper, Mattias, Wei, Morten, Nicholas | Emphasis on explicit assumptions, mix/product-margin modeling, reusable structure, and earlier visibility |
-| [To be filled] | | | | |
+| ERT transition / successor onboarding | ACTIVE | João | Kasper, Nina, Claus, Henrik | Transition risk is high because role contains tacit knowledge, ad hoc commercial support, calculation-file maintenance, and process glue |
+| Service / supply-chain operating-model hardening | ACTIVE | Service leadership | Martin, Nicholas, Claus, service/supply-chain teams | Includes Norway field-service remediation, subcontractor pilot, freight-cost/service-level tradeoffs, RCC/first-time-fix improvements |
 
 ### Recurring Processes
 | Process | Frequency | Tools Used | Pain Points | Automation Potential |
 |---------|-----------|------------|-------------|---------------------|
-| Financial reporting | Monthly | SAP/BW, Excel, Power BI (and variants) | Late visibility, manual retrieval, process handoff friction | HIGH |
+| Financial reporting | Monthly | SAP/BW, Excel, Power BI (and variants) | Late visibility, manual retrieval, process handoff friction, report-version ambiguity | HIGH |
 | Forecasting | Quarterly | SAP/BW, Excel, SAC, local models | Top-line easier than product margin/mix; too much late-stage rework | HIGH |
 | Budget planning | Annual | SAP/BW, Excel, SAC | High complexity, multiple files, weak transparency in some assumptions | MEDIUM |
 | Bonus accrual / CRM settlements | Monthly / quarterly / annual depending on agreement | CRM/SERUM, Excel, customer files | Manual expert-dependent flow, repetitive refresh work, unclear handoffs | HIGH |
+| FTE / workforce planning | Monthly / forecast-cycle | SharePoint/Excel, Azets extracts, HR files | Version sprawl, poor data hygiene, split-cost-center issues, sensitive payroll-data exposure risk | MEDIUM-HIGH |
+| ERT customer/account planning | Weekly / monthly / forecast-cycle | Excel/account-plan outputs, sales inputs, order/open-order data | Tacit knowledge, file fragility, ad hoc requests, weak standard output layer | HIGH |
 
 ---
 
@@ -64,6 +67,8 @@
 - Mix by channel / category / SKU level where needed
 - Freight / logistics as % of net sales (and, longer term, deeper allocation logic)
 - FTEs, vacancies, overhead phasing, cost-savings / cost-avoidance initiatives
+- Market share / competitive position via GfK and related market data
+- Service response time, first-time fix, technician efficiency, RCC incident patterns
 
 ### Data Sources
 - SAP / BW reports (including delivered-goods and open-order views)
@@ -100,6 +105,9 @@
 | 2026-03 | Harden bonus accrual / CRM workflow with clearer ownership and documentation | Repetitive manual work and process ambiguity are causing risk and inefficiency | Higher control, easier delegation, lower dependence on a few experts | Active |
 | 2026-03 | Develop Henrik toward structured FP&A/data/process work under clearer functional guidance | Team needs future-oriented capability, not only manual support | Builds scalable talent for AI/data-enabled FP&A operations | In progress |
 | 2026-03 | Use skills/data understanding to reduce repetitive retrieval work instead of accepting it as fixed overhead | Many current Excel/customer-file workflows are too manual | Opens path to automation and better monthly control discipline | Active |
+| 2026-03 | Treat Sweden as the key Nordic growth battleground | Commercial dialogue and market data show Sweden is both the main opportunity and a position/perception gap | Concentrates strategic attention on the market with most upside and competitive pressure | Active |
+| 2026-03 | Use account-plan / planning outputs first as validation tools, not only presentation tools | Need to test whether customer/channel/category assumptions are believable before they become forecast errors | Reduces false precision and creates earlier intervention points | Active |
+| 2026-03 | Push service model toward more control where possible (own technicians > subcontractor > MSP) | Norway/service discussions exposed weak control and visibility in current partner model | Improves premium control, economics, and customer-journey visibility when feasible | Exploratory / pilot |
 
 ---
 
