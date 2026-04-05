@@ -37,6 +37,20 @@
 
 ---
 
+## Privacy / Recall Rule
+
+For João-specific knowledge handling:
+- intimate / erotic / highly personal material may be stored for continuity
+- but must be treated as **non-recall by default**
+- do not proactively reference it unless João explicitly asks for that territory
+- if uncertain whether a topic crosses into that zone, ask before surfacing it
+
+Suggested privacy tags:
+- `private`
+- `very-private`
+- `intimate-non-recall`
+- `book-unsafe`
+
 ## Book Potential
 
 This file should eventually separate:

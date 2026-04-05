@@ -37,6 +37,8 @@ Keep separate:
 - public
 - private
 - very-private
+- intimate-non-recall
+- book-unsafe
 - omit
 - pseudonymize
 - verify-first

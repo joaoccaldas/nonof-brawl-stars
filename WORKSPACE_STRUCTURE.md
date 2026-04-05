@@ -119,6 +119,14 @@ workspace/
 - `JOAO-*.md` files = structured biographical, thematic, family, place, and book-oriented knowledge about João
 - `knowledge/graph/people/` = optional graph-ready person entities when a person needs a first-class reusable node
 
+**Privacy / recall hierarchy:**
+- `private` = stored normally; may be referenced when clearly relevant
+- `very-private` = stored carefully; do not surface casually
+- `intimate-non-recall` = may be stored for continuity/pattern understanding, but must not be proactively referenced, cited, or woven into unrelated conversations unless João explicitly asks
+- `book-unsafe` = not suitable for future public/book use without explicit later promotion
+- Sensitive family/legal/medical details should default to `very-private` or stricter
+- Sexual/erotic/body-image/intimate reflections should default to `intimate-non-recall` unless João says otherwise
+
 **Canonical people/relationship rule:**
 - High-level durable people/relationship truth belongs in `knowledge/ME.md`.
 - Structured family history, lineage context, and household mapping belong in `knowledge/JOAO-FAMILY.md`.
@@ -211,6 +219,7 @@ Every time I write a file, I check:
 | 2026-04-04 | Added `skills/` as canonical workspace location for custom workflow skills and documented skill governance | Supernova |
 | 2026-04-05 | Added João-specific biography/identity knowledge files and book-scaffolding structure under `knowledge/` | Supernova |
 | 2026-04-05 | Added family email synthesis file and optional graph-ready person-node structure under `knowledge/graph/people/` | Supernova |
+| 2026-04-05 | Added explicit privacy/recall hierarchy including `intimate-non-recall` and `book-unsafe` handling | Supernova |
 
 ---
 
