@@ -14,14 +14,31 @@ workspace/
 │   └── YYYY-MM-DD.md
 │
 ├── knowledge/                 🧠 CURATED TRUTH (single source)
-│   ├── ME.md                  👤 Everything about João
+│   ├── ME.md                  👤 High-level durable truth about João
 │   ├── MIELE.md               🏢 Everything about Miele
-│   └── CONCEPTS.md            🔗 Cross-domain patterns
+│   ├── CONCEPTS.md            🔗 Cross-domain patterns
+│   ├── JOAO-TIMELINE.md       🕰️ Canonical life chronology
+│   ├── JOAO-IDENTITY.md       🧬 Traits, drives, tensions, operating style
+│   ├── JOAO-FAMILY.md         👨‍👩‍👧‍👦 Family map and lineage context
+│   ├── JOAO-PLACES.md         📍 Place-based identity and geography
+│   ├── JOAO-THEMES.md         🧵 Recurring life themes
+│   └── JOAO-BOOK-MAP.md       📚 Future memoir / narrative scaffolding
 │
 ├── inbox/                     📥 UNPROCESSED INPUTS (temporary)
 │   ├── youtube/               🎬 YouTube transcripts
 │   ├── meetings/              🤝 Meeting transcripts
-│   └── notes/                 📝 Quick thoughts
+│   ├── notes/                 📝 Quick thoughts
+│   └── images/                📸 Image inbox (processed by image-ingestion skill)
+│       ├── miele/
+│       ├── automation/
+│       ├── ai/
+│       ├── private/
+│       │   └── secure/        🔐 SACRED — body photos, family (MOST PRIVATE)
+│       ├── tech-owned/        🔧 João's tech inventory (devices, wearables, telescopes)
+│       │   ├── telescopes/
+│       │   ├── wearables/
+│       │   └── general/
+│       └── other/
 │
 ├── projects/                  🚧 ACTIVE WORK (current only)
 │   └── [project-name]/
@@ -90,13 +107,22 @@ workspace/
 
 ### `knowledge/` — Living Documents
 **Purpose:** Current state of understanding  
-**Files:** Always 3 files (ME, MIELE, CONCEPTS)  
+**Files:** Core knowledge files plus João-specific biography/identity files  
 **Updates:** Continuous, append or edit in place  
-**Rule:** If info belongs to João → ME.md; Miele → MIELE.md; both → CONCEPTS.md
+**Rule:**
+- `ME.md` = distilled high-level durable truth about João
+- `MIELE.md` = Miele/business knowledge
+- `CONCEPTS.md` = cross-domain patterns
+- `JOAO-*.md` files = structured biographical, thematic, family, place, and book-oriented knowledge about João
 
 **Canonical people/relationship rule:**
-- Personal contacts, family, important relationships, and recurring people relevant to João belong in `knowledge/ME.md`.
-- Do **not** create a top-level `contacts/` folder unless scale clearly outgrows `ME.md` and the structure is updated here first.
+- High-level durable people/relationship truth belongs in `knowledge/ME.md`.
+- Structured family history, lineage context, and household mapping belong in `knowledge/JOAO-FAMILY.md`.
+- Structured life chronology belongs in `knowledge/JOAO-TIMELINE.md`.
+- Place-linked identity context belongs in `knowledge/JOAO-PLACES.md`.
+- Recurring life motifs belong in `knowledge/JOAO-THEMES.md`.
+- Possible future narrative/book scaffolding belongs in `knowledge/JOAO-BOOK-MAP.md`.
+- Do **not** create a top-level `contacts/` folder unless scale clearly outgrows this structure and the architecture is updated here first.
 - One-off or ambiguous person mentions go to `memory/YYYY-MM-DD.md` first, not directly into canonical knowledge.
 
 ### `inbox/` — Staging Area
@@ -177,6 +203,7 @@ Every time I write a file, I check:
 | 2026-04-04 | Clarified canonical people/relationship storage and promotion rules across knowledge/memory/inbox | Supernova |
 | 2026-04-04 | Added project control-tower and project-schema governance rules for future tracking/visualization | Supernova |
 | 2026-04-04 | Added `skills/` as canonical workspace location for custom workflow skills and documented skill governance | Supernova |
+| 2026-04-05 | Added João-specific biography/identity knowledge files and book-scaffolding structure under `knowledge/` | Supernova |
 
 ---
 
