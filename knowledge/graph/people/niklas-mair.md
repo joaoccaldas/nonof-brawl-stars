@@ -8,6 +8,7 @@
 - **Emails:**
   - niklas.mair@miele.com
 - **Phone:** 08-562 29 000
+- **LinkedIn:** https://se.linkedin.com/in/niklas-mair-97a2563
 - **Relationship to João:** Managing Director / Manager
 - **Organization:** Miele Nordics
 - **Observed roles:** Managing Director, strategic leader, bonus scheme owner, team expectations setter, Sales Director Domestic (previous)
