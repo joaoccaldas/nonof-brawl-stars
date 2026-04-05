@@ -75,6 +75,22 @@ For each entry, prefer:
 
 ---
 
+### 2016-2019 — Family support / Juliana process cluster
+- **Age:** ~31-35
+- **People involved:** Paulo, Margarida, Juliana, Cecilia, João, external lawyers
+- **What happened:** Gmail evidence suggests a sustained family cluster involving Juliana with legal/process, reimbursement/insurance, medical-history forwarding, and travel/document coordination.
+- **Why it mattered:** Likely a major family stress/support period that positioned João as a trusted bridge/helper from abroad.
+- **Confidence:** Approximate / interpretation needs João confirmation
+- **Privacy:** very-private
+
+### 2017-2019 — Family travel / invitation / Europe coordination
+- **Age:** ~32-34
+- **People involved:** João, Margarida, Juliana, Linn, broader family
+- **What happened:** Gmail evidence suggests active travel planning, invitation-letter exchange, and Europe/Lisbon-related coordination.
+- **Why it mattered:** Shows cross-border family continuity and João's role in enabling family movement/support.
+- **Confidence:** Approximate
+- **Privacy:** private
+
 ## Open Gaps
 - Parents timeline
 - Sisters timeline

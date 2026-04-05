@@ -22,7 +22,10 @@ workspace/
 │   ├── JOAO-FAMILY.md         👨‍👩‍👧‍👦 Family map and lineage context
 │   ├── JOAO-PLACES.md         📍 Place-based identity and geography
 │   ├── JOAO-THEMES.md         🧵 Recurring life themes
-│   └── JOAO-BOOK-MAP.md       📚 Future memoir / narrative scaffolding
+│   ├── JOAO-BOOK-MAP.md       📚 Future memoir / narrative scaffolding
+│   ├── JOAO-FAMILY-EMAIL-ANALYSIS-2016-2026.md  ✉️ Family context from Gmail synthesis
+│   └── graph/
+│       └── people/            👤 Optional graph-ready person nodes
 │
 ├── inbox/                     📥 UNPROCESSED INPUTS (temporary)
 │   ├── youtube/               🎬 YouTube transcripts
@@ -114,6 +117,7 @@ workspace/
 - `MIELE.md` = Miele/business knowledge
 - `CONCEPTS.md` = cross-domain patterns
 - `JOAO-*.md` files = structured biographical, thematic, family, place, and book-oriented knowledge about João
+- `knowledge/graph/people/` = optional graph-ready person entities when a person needs a first-class reusable node
 
 **Canonical people/relationship rule:**
 - High-level durable people/relationship truth belongs in `knowledge/ME.md`.
@@ -122,6 +126,8 @@ workspace/
 - Place-linked identity context belongs in `knowledge/JOAO-PLACES.md`.
 - Recurring life motifs belong in `knowledge/JOAO-THEMES.md`.
 - Possible future narrative/book scaffolding belongs in `knowledge/JOAO-BOOK-MAP.md`.
+- Gmail/email-derived family synthesis belongs in dedicated analysis files like `knowledge/JOAO-FAMILY-EMAIL-ANALYSIS-*.md`.
+- When needed, first-class person records can live in `knowledge/graph/people/` with stable IDs for future graph migration.
 - Do **not** create a top-level `contacts/` folder unless scale clearly outgrows this structure and the architecture is updated here first.
 - One-off or ambiguous person mentions go to `memory/YYYY-MM-DD.md` first, not directly into canonical knowledge.
 
@@ -204,6 +210,7 @@ Every time I write a file, I check:
 | 2026-04-04 | Added project control-tower and project-schema governance rules for future tracking/visualization | Supernova |
 | 2026-04-04 | Added `skills/` as canonical workspace location for custom workflow skills and documented skill governance | Supernova |
 | 2026-04-05 | Added João-specific biography/identity knowledge files and book-scaffolding structure under `knowledge/` | Supernova |
+| 2026-04-05 | Added family email synthesis file and optional graph-ready person-node structure under `knowledge/graph/people/` | Supernova |
 
 ---
 
