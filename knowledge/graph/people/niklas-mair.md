@@ -3,14 +3,29 @@
 - **Entity Type:** Person
 - **ID:** person.niklas-mair
 - **Name:** Niklas Mair
+- **Full Name:** Alfred Gustav Niklas Mair
+- **Title:** Managing Director, Miele Nordics
 - **Emails:**
   - niklas.mair@miele.com
-- **Relationship to João:** Manager / NLT (Nordic Leadership Team) member
+- **Phone:** 08-562 29 000
+- **Relationship to João:** Managing Director / Manager
 - **Organization:** Miele Nordics
-- **Observed roles:** manager, strategic leader, bonus scheme owner, team expectations setter
-- **Evidence sources:** Gmail analysis 2025-2026; João-provided context
-- **Confidence:** High — multiple direct emails
+- **Observed roles:** Managing Director, strategic leader, bonus scheme owner, team expectations setter, Sales Director Domestic (previous)
+- **Evidence sources:** Gmail analysis 2025-2026; João-provided context; web search (LinkedIn, press releases)
+- **Confidence:** High — verified
 - **Privacy:** Private
+
+## Background (from web search)
+
+- Became Managing Director of Miele Sweden (AB) on January 1, 2021
+- Previously Sales Director Domestic since March 2020, responsible for Miele's household product sales in Sweden
+- Succeeded Holger Keisinger as VD for Miele Sweden
+- Continues to hold responsibility for household product sales
+- Has spoken at events about workplace design and office strategy (Studio Stockholm "Framtidens Kontor och Arbetssätt")
+- Active in Nordic headquarters decisions (Solna Business Park)
+- Recently shared posts about Miele Sweden's new headquarters opening
+- Involved in AI/Executive Forum events — shows interest in AI transformation
+- Runs marathons (Athens Authentic Marathon)
 
 ## Observed Patterns (from email)
 
@@ -18,13 +33,12 @@
 - Owns and communicates bonus scheme information
 - Shares strategic documents (Nordic Fight Back Plan, 5-year financial business case)
 - Handles cancellation and scheduling of strategic meetings
-- Engaged in personal interest areas (marathon running, Athens Authentic Marathon)
 - Communicates with both professional and semi-personal tone
 
 ## Observed Email Threads
 
 | Date | Subject | Context |
-|------|---------|---------|
+|------|---------|--------|
 | 2025-10-28 | Canceled: D2C Deep Dive Q4 | Meeting cancellation |
 | 2025-08-07 | YTG to reach FC2 after July outcome | Financial target follow-up |
 | 2025-07-03 | NLT Bonus scheme 2025 | Bonus structure communication |
@@ -39,18 +53,16 @@
 - Both a manager and a person João finds extremely interesting and intelligent
 - They are building something strong together
 - João sees this relationship as significant for career and personal development
+- Niklas coaches João on simplification and kitchen priority
 
 ## Open Questions
 
-- Full name / title at Miele?
-- How long at Miele?
-- Background/previous roles?
-- Personal interests beyond running?
 - Family?
 - Birthday?
 - Nationality?
-- How they met / when relationship started?
+- How João and Niklas met / when relationship started?
+- Previous career background before Miele?
 
 ## Notes
 
-- Tags: manager, strategic, running, miele-nordics, important
+- Tags: managing-director, manager, strategic, running, miele-nordics, important, ai-interested
