@@ -1,0 +1,59 @@
+{
+  "name": "Family Dashboard",
+  "version": "0.1.0",
+  "current_phase": 1,
+  "phases": [
+    {
+      "name": "Foundation",
+      "progress_percent": 80,
+      "status": "active",
+      "next_action": "Complete documentation and README",
+      "next_action_type": "code",
+      "estimated_effort_minutes": 30,
+      "dependencies": [],
+      "notes": "✅ Next.js scaffolded, ✅ Three views built (Family/Parent/Kid), ✅ JSON data layer, ✅ Daily cron set up, ✅ GitHub Actions workflow created, ⏳ Deploy to GitHub Pages, ⏳ Password protection via Cloudflare Access"
+    },
+    {
+      "name": "Live Data Integration",
+      "progress_percent": 40,
+      "status": "pending",
+      "next_action": "Connect Google Calendar API and handball schedule APIs",
+      "next_action_type": "code",
+      "estimated_effort_minutes": 180,
+      "dependencies": ["Foundation"],
+      "notes": "Real calendar sync, handball team schedules, weather widget"
+    },
+    {
+      "name": "Intelligence Layer",
+      "progress_percent": 70,
+      "status": "pending",
+      "next_action": "Build daily sync cron and auto-commit workflow",
+      "next_action_type": "config",
+      "estimated_effort_minutes": 120,
+      "dependencies": ["Live Data Integration"],
+      "notes": "Daily ingestion, conflict detection, auto-commits to GitHub"
+    },
+    {
+      "name": "Polish & Deploy",
+      "progress_percent": 90,
+      "status": "pending",
+      "next_action": "GitHub Pages + Cloudflare Access password protection",
+      "next_action_type": "config",
+      "estimated_effort_minutes": 90,
+      "dependencies": ["Intelligence Layer"],
+      "notes": "Production deploy, mobile optimization, family onboarding"
+    },
+    {
+      "name": "Complete",
+      "progress_percent": 100,
+      "status": "pending",
+      "next_action": "Documentation and future planning",
+      "next_action_type": "research",
+      "estimated_effort_minutes": 60,
+      "dependencies": ["Polish & Deploy"],
+      "notes": "Runbook, monitoring, meal planning, chore tracking future features"
+    }
+  ],
+  "last_updated": "2026-04-22T23:45:00+02:00",
+  "notes": "Living family dashboard - daily commits showing family life evolution"
+}
