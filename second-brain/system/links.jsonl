@@ -108,6 +108,7 @@
 {"source": "bonus", "target": "claus", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04.md", "/Users/joao/.openclaw/workspace/memory/2026-04-10-1023.md"]}
 {"source": "bonus", "target": "denisse", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-10-1023.md", "/Users/joao/.openclaw/workspace/memory/2026-04-10.md"]}
 {"source": "bonus", "target": "denmark", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-10-1023.md", "/Users/joao/.openclaw/workspace/memory/2026-04-10.md"]}
+{"source": "bootstrap", "target": "memory_md", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md", "/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
 {"source": "both", "target": "kimi", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-17.md", "/Users/joao/.openclaw/workspace/memory/2026-04-27-kimi-context-fix.md"]}
 {"source": "both", "target": "model", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-17.md", "/Users/joao/.openclaw/workspace/memory/2026-04-27-kimi-context-fix.md"]}
 {"source": "breathing", "target": "cest", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-23.md", "/Users/joao/.openclaw/workspace/memory/MIDTERM.md"]}
@@ -4281,15 +4282,26 @@
 {"source": "bootstrap", "target": "candidate", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
 {"source": "bootstrap", "target": "component", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
 {"source": "bootstrap", "target": "connectome_emulation", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
+{"source": "bootstrap", "target": "connectome_simulation", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "bootstrap", "target": "currently", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
+{"source": "bootstrap", "target": "eperm", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "bootstrap", "target": "failed", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "bootstrap", "target": "found", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
+{"source": "bootstrap", "target": "gemini", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "bootstrap", "target": "here_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
+{"source": "bootstrap", "target": "high", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "bootstrap", "target": "idle", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
-{"source": "bootstrap", "target": "memory_md", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
 {"source": "bootstrap", "target": "minimax", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
 {"source": "bootstrap", "target": "nova", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
 {"source": "bootstrap", "target": "openclaw_nova_hub", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
+{"source": "bootstrap", "target": "phase", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "bootstrap", "target": "possible_lasting_truths", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
+{"source": "bootstrap", "target": "real", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "bootstrap", "target": "some", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "bootstrap", "target": "successfully", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "bootstrap", "target": "visualization", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "bootstrap", "target": "websocket", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "bootstrap", "target": "yolo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "born", "target": "brazil", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05.md"]}
 {"source": "born", "target": "cecilia", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05.md"]}
 {"source": "born", "target": "cecilia_lima_caldas", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05.md"]}
@@ -5641,6 +5653,18 @@
 {"source": "connectome_mapping_simple_neuron_models", "target": "expecting", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-14-biological-emulation.md"]}
 {"source": "connectome_mapping_simple_neuron_models", "target": "filed", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-14-biological-emulation.md"]}
 {"source": "connectome_mapping_simple_neuron_models", "target": "for_you_the_path_would_be", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-14-biological-emulation.md"]}
+{"source": "connectome_simulation", "target": "eperm", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "connectome_simulation", "target": "failed", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "connectome_simulation", "target": "gemini", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "connectome_simulation", "target": "high", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "connectome_simulation", "target": "memory_md", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "connectome_simulation", "target": "phase", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "connectome_simulation", "target": "real", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "connectome_simulation", "target": "some", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "connectome_simulation", "target": "successfully", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "connectome_simulation", "target": "visualization", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "connectome_simulation", "target": "websocket", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "connectome_simulation", "target": "yolo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "construction", "target": "contact", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-10.md"]}
 {"source": "construction", "target": "delphine", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-10.md"]}
 {"source": "construction", "target": "denisse", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-10.md"]}
@@ -6774,6 +6798,17 @@
 {"source": "enter", "target": "fits_the_moment", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-12-second-brain-nova-integration.md"]}
 {"source": "enter", "target": "found", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-12-second-brain-nova-integration.md"]}
 {"source": "enter", "target": "full", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-12-second-brain-nova-integration.md"]}
+{"source": "eperm", "target": "failed", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "eperm", "target": "gemini", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "eperm", "target": "high", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "eperm", "target": "memory_md", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "eperm", "target": "phase", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "eperm", "target": "real", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "eperm", "target": "some", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "eperm", "target": "successfully", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "eperm", "target": "visualization", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "eperm", "target": "websocket", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "eperm", "target": "yolo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "ert_4x1_meeting", "target": "even", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-14-biological-emulation.md"]}
 {"source": "ert_4x1_meeting", "target": "expecting", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-14-biological-emulation.md"]}
 {"source": "ert_4x1_meeting", "target": "filed", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-14-biological-emulation.md"]}
@@ -6894,6 +6929,16 @@
 {"source": "extracted", "target": "fc1_deck_was_sent", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-08.md"]}
 {"source": "extracted", "target": "forecast", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-08.md"]}
 {"source": "extracted", "target": "forecast_1_deck_was_sent", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-08.md"]}
+{"source": "failed", "target": "gemini", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "failed", "target": "high", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "failed", "target": "memory_md", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "failed", "target": "phase", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "failed", "target": "real", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "failed", "target": "some", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "failed", "target": "successfully", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "failed", "target": "visualization", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "failed", "target": "websocket", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "failed", "target": "yolo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "failovererror", "target": "failovererror_llm_request_timed_out", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-noah-brawl-ui.md"]}
 {"source": "failovererror", "target": "finished_cleaning_storage_units", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-noah-brawl-ui.md"]}
 {"source": "failovererror", "target": "fixed", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-noah-brawl-ui.md"]}
@@ -7196,6 +7241,7 @@
 {"source": "gap_between_ai", "target": "i_m", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-1146.md"]}
 {"source": "gap_between_ai", "target": "inbox_to_process_to_knowledge_memory", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-1146.md"]}
 {"source": "gemini", "target": "google_developer_program", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-09.md"]}
+{"source": "gemini", "target": "high", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "gemini", "target": "i_d", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "gemini", "target": "immediate", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-09.md"]}
 {"source": "gemini", "target": "implement", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-09.md"]}
@@ -7203,15 +7249,23 @@
 {"source": "gemini", "target": "initiated", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-09.md"]}
 {"source": "gemini", "target": "long", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "gemini", "target": "maybe", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
+{"source": "gemini", "target": "memory_md", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "gemini", "target": "model", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "gemini", "target": "off", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "gemini", "target": "openclaw_nova_hub", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
+{"source": "gemini", "target": "phase", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "gemini", "target": "pro", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0329.md"]}
+{"source": "gemini", "target": "real", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "gemini", "target": "removing_gemini_cli", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "gemini", "target": "same", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "gemini", "target": "saturday", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0329.md"]}
+{"source": "gemini", "target": "some", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "gemini", "target": "stockholm", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0329.md"]}
+{"source": "gemini", "target": "successfully", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "gemini", "target": "that_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
+{"source": "gemini", "target": "visualization", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "gemini", "target": "websocket", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "gemini", "target": "yolo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "gemini", "target": "you_re", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "generated", "target": "integrated", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-18.md"]}
 {"source": "generated", "target": "low", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-18.md"]}
@@ -7394,6 +7448,14 @@
 {"source": "hhmm_md", "target": "store", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
 {"source": "hhmm_md", "target": "tailscale", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
 {"source": "hhmm_md", "target": "tools_md", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
+{"source": "high", "target": "memory_md", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "high", "target": "phase", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "high", "target": "real", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "high", "target": "some", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "high", "target": "successfully", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "high", "target": "visualization", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "high", "target": "websocket", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "high", "target": "yolo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "how_s", "target": "i_d", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0315.md"]}
 {"source": "how_s", "target": "i_ll", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-12-horny-banter.md"]}
 {"source": "how_s", "target": "i_ve", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0315.md"]}
@@ -7824,15 +7886,22 @@
 {"source": "memory_md", "target": "note", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
 {"source": "memory_md", "target": "nova", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
 {"source": "memory_md", "target": "openclaw_nova_hub", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
+{"source": "memory_md", "target": "phase", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "memory_md", "target": "possible_lasting_truths", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
 {"source": "memory_md", "target": "pre_compaction", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
+{"source": "memory_md", "target": "real", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "memory_md", "target": "resume", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
 {"source": "memory_md", "target": "saturday", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
+{"source": "memory_md", "target": "some", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "memory_md", "target": "soul_md", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
 {"source": "memory_md", "target": "stockholm", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
 {"source": "memory_md", "target": "store", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
+{"source": "memory_md", "target": "successfully", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "memory_md", "target": "tailscale", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
 {"source": "memory_md", "target": "tools_md", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
+{"source": "memory_md", "target": "visualization", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "memory_md", "target": "websocket", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "memory_md", "target": "yolo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "microsoft", "target": "openclaw", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/pending-payments.md"]}
 {"source": "microsoft", "target": "paid", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/pending-payments.md"]}
 {"source": "microsoft", "target": "parkman", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/pending-payments.md"]}
@@ -8063,6 +8132,12 @@
 {"source": "per_session_override", "target": "primary", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-kimi-context-fix.md"]}
 {"source": "per_session_override", "target": "replace", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-kimi-context-fix.md"]}
 {"source": "per_session_override", "target": "restart", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-kimi-context-fix.md"]}
+{"source": "phase", "target": "real", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "phase", "target": "some", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "phase", "target": "successfully", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "phase", "target": "visualization", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "phase", "target": "websocket", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "phase", "target": "yolo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "phone", "target": "prizes", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25.md"]}
 {"source": "phone", "target": "showdown", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25.md"]}
 {"source": "phone", "target": "skins", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25.md"]}
@@ -8100,6 +8175,11 @@
 {"source": "quick", "target": "regarding", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
 {"source": "quick", "target": "report", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
 {"source": "quick", "target": "search", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
+{"source": "real", "target": "some", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "real", "target": "successfully", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "real", "target": "visualization", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "real", "target": "websocket", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "real", "target": "yolo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "regarding", "target": "report", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
 {"source": "regarding", "target": "search", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
 {"source": "remaining", "target": "review", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-18.md"]}
@@ -8143,6 +8223,10 @@
 {"source": "sharp", "target": "wont", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05-1034.md"]}
 {"source": "showdown", "target": "skins", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25.md"]}
 {"source": "since", "target": "what_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0315.md"]}
+{"source": "some", "target": "successfully", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "some", "target": "visualization", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "some", "target": "websocket", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "some", "target": "yolo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "something", "target": "ssh", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-26-fix-brawlstars-mobile.md"]}
 {"source": "something", "target": "termux", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-26-fix-brawlstars-mobile.md"]}
 {"source": "something", "target": "the_brawlers", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-26-fix-brawlstars-mobile.md"]}
@@ -8164,6 +8248,9 @@
 {"source": "stockholm", "target": "wont", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05-1034.md"]}
 {"source": "store", "target": "tailscale", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
 {"source": "store", "target": "tools_md", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
+{"source": "successfully", "target": "visualization", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "successfully", "target": "websocket", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "successfully", "target": "yolo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "sunday", "target": "this_current_runtime", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05-1034.md"]}
 {"source": "sunday", "target": "wont", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05-1034.md"]}
 {"source": "tailscale", "target": "tools_md", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
@@ -8179,3 +8266,6 @@
 {"source": "url", "target": "user", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-26-html-refactor.md"]}
 {"source": "url", "target": "vite", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-26-html-refactor.md"]}
 {"source": "user", "target": "vite", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-26-html-refactor.md"]}
+{"source": "visualization", "target": "websocket", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "visualization", "target": "yolo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "websocket", "target": "yolo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
