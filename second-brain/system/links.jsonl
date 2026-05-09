@@ -17,9 +17,11 @@
 {"source": "caddy", "target": "connectome_emulation", "weight": 3, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md", "/Users/joao/.openclaw/workspace/memory/2026-04-28.md", "/Users/joao/.openclaw/workspace/memory/2026-04-29.md"]}
 {"source": "connectome", "target": "connectome_emulation", "weight": 3, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-16.md", "/Users/joao/.openclaw/workspace/memory/2026-04-24.md", "/Users/joao/.openclaw/workspace/memory/2026-04-28.md"]}
 {"source": "connectome_emulation", "target": "esrange", "weight": 3, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-16.md", "/Users/joao/.openclaw/workspace/memory/2026-04-18.md", "/Users/joao/.openclaw/workspace/memory/2026-04-24.md"]}
+{"source": "gemini", "target": "openclaw_nova_hub", "weight": 3, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md", "/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
 {"source": "i_m", "target": "joao", "weight": 3, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0315.md", "/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md", "/Users/joao/.openclaw/workspace/memory/2026-04-12-horny-banter.md"]}
 {"source": "i_m", "target": "model", "weight": 3, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md", "/Users/joao/.openclaw/workspace/memory/2026-04-26-brawl-mode-fix.md", "/Users/joao/.openclaw/workspace/memory/2026-04-27-kimi-context-fix.md"]}
-{"source": "port", "target": "tasks", "weight": 3, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-07.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "openclaw_nova_hub", "target": "port", "weight": 3, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md", "/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
+{"source": "port", "target": "tasks", "weight": 3, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-07.md", "/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
 {"source": "active", "target": "api", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-24.md", "/Users/joao/.openclaw/workspace/memory/2026-04-26.md"]}
 {"source": "active", "target": "apr", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-24.md", "/Users/joao/.openclaw/workspace/memory/2026-04-26.md"]}
 {"source": "active", "target": "audi", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-24.md", "/Users/joao/.openclaw/workspace/memory/2026-04-26.md"]}
@@ -45,9 +47,6 @@
 {"source": "amsterdam", "target": "brazil", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05.md", "/Users/joao/.openclaw/workspace/memory/2026-04-06.md"]}
 {"source": "android", "target": "april", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-26-android-adb-pairing.md", "/Users/joao/.openclaw/workspace/memory/2026-04-26.md"]}
 {"source": "android", "target": "check", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-23.md", "/Users/joao/.openclaw/workspace/memory/2026-04-26-android-adb-pairing.md"]}
-{"source": "antigravi", "target": "port", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "antigravi", "target": "tasks", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "antigravi", "target": "whatsapp", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "anything", "target": "before", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-1146.md", "/Users/joao/.openclaw/workspace/memory/2026-04-04-linux-video.md"]}
 {"source": "api", "target": "apr", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-24.md", "/Users/joao/.openclaw/workspace/memory/2026-04-26.md"]}
 {"source": "api", "target": "audi", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-24.md", "/Users/joao/.openclaw/workspace/memory/2026-04-26.md"]}
@@ -148,7 +147,8 @@
 {"source": "follow", "target": "heartbeat_md", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-13-audio-transcription-hang.md", "/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
 {"source": "friday", "target": "stockholm", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-10-0750.md", "/Users/joao/.openclaw/workspace/memory/2026-04-10-hello.md"]}
 {"source": "gemini", "target": "i_m", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0329.md", "/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
-{"source": "gemini", "target": "openclaw_nova_hub", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md", "/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
+{"source": "gemini", "target": "port", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
+{"source": "gemini", "target": "tasks", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
 {"source": "gmt", "target": "i_ll", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-13-audio-transcription-hang.md", "/Users/joao/.openclaw/workspace/memory/2026-04-26-brawl-mode-fix.md"]}
 {"source": "gmt", "target": "i_m", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-13-audio-transcription-hang.md", "/Users/joao/.openclaw/workspace/memory/2026-04-26-brawl-mode-fix.md"]}
 {"source": "hhmm_md", "target": "memory_md", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-confirmation.md", "/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
@@ -163,18 +163,15 @@
 {"source": "joao", "target": "key", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-14.md", "/Users/joao/.openclaw/workspace/memory/2026-04-16.md"]}
 {"source": "joao", "target": "nova", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md", "/Users/joao/.openclaw/workspace/memory/2026-04-14.md"]}
 {"source": "kimi", "target": "model", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-17.md", "/Users/joao/.openclaw/workspace/memory/2026-04-27-kimi-context-fix.md"]}
-{"source": "openclaw_nova_hub", "target": "port", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "openclaw_nova_hub", "target": "primary", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "openclaw_nova_hub", "target": "pid", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "openclaw_nova_hub", "target": "system_health_monitor", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "openclaw_nova_hub", "target": "tasks", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "port", "target": "primary", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "openclaw_nova_hub", "target": "tasks", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
+{"source": "pid", "target": "port", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "pid", "target": "system_health_monitor", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "port", "target": "system_health_monitor", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "port", "target": "whatsapp", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "primary", "target": "system_health_monitor", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "primary", "target": "tasks", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "port", "target": "whatsapp", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md", "/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
 {"source": "saturday", "target": "stockholm", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0329.md", "/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
-{"source": "system_health_monitor", "target": "tasks", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "tasks", "target": "whatsapp", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md", "/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "tasks", "target": "whatsapp", "weight": 2, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md", "/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
 {"source": "05_00_am", "target": "05_02_am", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-21.md"]}
 {"source": "05_00_am", "target": "05_15_am", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-21.md"]}
 {"source": "05_00_am", "target": "05_22_am", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-21.md"]}
@@ -2454,16 +2451,6 @@
 {"source": "alert_throttle", "target": "health_check_sh", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/dashboards-setup-2026-04-23.md"]}
 {"source": "alert_throttle", "target": "installed", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/dashboards-setup-2026-04-23.md"]}
 {"source": "alert_throttle", "target": "it_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/dashboards-setup-2026-04-23.md"]}
-{"source": "alerted", "target": "antigravi", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "alerted", "target": "joao", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "alerted", "target": "oauth", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "alerted", "target": "openclaw_nova_hub", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "alerted", "target": "passed", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "alerted", "target": "port", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "alerted", "target": "primary", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "alerted", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "alerted", "target": "tasks", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "alerted", "target": "whatsapp", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "alexander", "target": "archive_complete", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-10-1023.md"]}
 {"source": "alexander", "target": "batch_complete", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-10-1023.md"]}
 {"source": "alexander", "target": "bonus", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-10-1023.md"]}
@@ -2588,6 +2575,17 @@
 {"source": "already", "target": "discussed", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-03.md"]}
 {"source": "already", "target": "end", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-03.md"]}
 {"source": "already", "target": "established", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-03.md"]}
+{"source": "already", "target": "failed", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "already", "target": "health_checks_run", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "already", "target": "joao_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "already", "target": "model_status", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "already", "target": "none", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "already", "target": "openclaw_nova_hub", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "already", "target": "pid", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "already", "target": "port", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "already", "target": "probe", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "already", "target": "sigkill", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "already", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "already_attractive", "target": "analyse", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05-1020.md"]}
 {"source": "already_attractive", "target": "back_photo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05-1020.md"]}
 {"source": "already_attractive", "target": "baseline", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05-1020.md"]}
@@ -3023,15 +3021,12 @@
 {"source": "antigravi", "target": "gemini_cli_oauth", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md"]}
 {"source": "antigravi", "target": "health", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md"]}
 {"source": "antigravi", "target": "issues", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md"]}
-{"source": "antigravi", "target": "joao", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "antigravi", "target": "nova", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md"]}
-{"source": "antigravi", "target": "oauth", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "antigravi", "target": "openai_codex_oauth", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md"]}
-{"source": "antigravi", "target": "openclaw_nova_hub", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "antigravi", "target": "passed", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "antigravi", "target": "primary", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "antigravi", "target": "port", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md"]}
 {"source": "antigravi", "target": "system", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md"]}
-{"source": "antigravi", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "antigravi", "target": "tasks", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md"]}
+{"source": "antigravi", "target": "whatsapp", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md"]}
 {"source": "any", "target": "api", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-26-elevenlabs-voice-clone.md"]}
 {"source": "any", "target": "api_endpoint", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-26-elevenlabs-voice-clone.md"]}
 {"source": "any", "target": "append", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-26-elevenlabs-voice-clone.md"]}
@@ -3370,6 +3365,12 @@
 {"source": "apr", "target": "travel", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-30.md"]}
 {"source": "apr", "target": "vite", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "apr", "target": "week", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-30.md"]}
+{"source": "apr_may", "target": "gemini", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
+{"source": "apr_may", "target": "openclaw_nova_hub", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
+{"source": "apr_may", "target": "port", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
+{"source": "apr_may", "target": "repeat", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
+{"source": "apr_may", "target": "tasks", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
+{"source": "apr_may", "target": "whatsapp", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
 {"source": "april", "target": "april_28_or_earlier", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-29-memory-system-failure.md"]}
 {"source": "april", "target": "architecture_analysis", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11.md"]}
 {"source": "april", "target": "attempted_vite_restart", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-01.md"]}
@@ -7511,12 +7512,22 @@
 {"source": "fail", "target": "pavilion", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-29.md"]}
 {"source": "fail", "target": "phase", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-29.md"]}
 {"source": "failed", "target": "gemini", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "failed", "target": "health_checks_run", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "failed", "target": "high", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "failed", "target": "joao_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "failed", "target": "memory_md", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "failed", "target": "model_status", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "failed", "target": "none", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "failed", "target": "openclaw_nova_hub", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "failed", "target": "phase", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "failed", "target": "pid", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "failed", "target": "port", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "failed", "target": "probe", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "failed", "target": "real", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "failed", "target": "sigkill", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "failed", "target": "some", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "failed", "target": "successfully", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "failed", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "failed", "target": "visualization", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "failed", "target": "websocket", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "failed", "target": "yolo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
@@ -7867,12 +7878,12 @@
 {"source": "gemini", "target": "off", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "gemini", "target": "phase", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "gemini", "target": "pid", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
-{"source": "gemini", "target": "port", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "gemini", "target": "port_exposure", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "gemini", "target": "primary", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "gemini", "target": "pro", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0329.md"]}
 {"source": "gemini", "target": "real", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "gemini", "target": "removing_gemini_cli", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
+{"source": "gemini", "target": "repeat", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
 {"source": "gemini", "target": "same", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "gemini", "target": "saturday", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0329.md"]}
 {"source": "gemini", "target": "some", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
@@ -7880,12 +7891,12 @@
 {"source": "gemini", "target": "successfully", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "gemini", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "gemini", "target": "tailscale", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
-{"source": "gemini", "target": "tasks", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "gemini", "target": "tasks_maintenance", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "gemini", "target": "that_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "gemini", "target": "visualization", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "gemini", "target": "vite", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "gemini", "target": "websocket", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
+{"source": "gemini", "target": "whatsapp", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
 {"source": "gemini", "target": "yolo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "gemini", "target": "you_re", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "gemini_auth", "target": "models", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
@@ -8030,6 +8041,15 @@
 {"source": "health", "target": "whatsapp", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md"]}
 {"source": "health_check_sh", "target": "installed", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/dashboards-setup-2026-04-23.md"]}
 {"source": "health_check_sh", "target": "it_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/dashboards-setup-2026-04-23.md"]}
+{"source": "health_checks_run", "target": "joao_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "health_checks_run", "target": "model_status", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "health_checks_run", "target": "none", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "health_checks_run", "target": "openclaw_nova_hub", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "health_checks_run", "target": "pid", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "health_checks_run", "target": "port", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "health_checks_run", "target": "probe", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "health_checks_run", "target": "sigkill", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "health_checks_run", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "heartbeat", "target": "hyatt", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-16.md"]}
 {"source": "heartbeat", "target": "joao", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-16.md"]}
 {"source": "heartbeat", "target": "key", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-16.md"]}
@@ -8438,28 +8458,28 @@
 {"source": "joao", "target": "mutual", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-14.md"]}
 {"source": "joao", "target": "nothing_is_off_the_table", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-12-horny-banter.md"]}
 {"source": "joao", "target": "nova_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-14.md"]}
-{"source": "joao", "target": "oauth", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "joao", "target": "okay", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
-{"source": "joao", "target": "openclaw_nova_hub", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "joao", "target": "passed", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "joao", "target": "pick", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
 {"source": "joao", "target": "please", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
-{"source": "joao", "target": "port", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "joao", "target": "primary", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "joao", "target": "quick", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
 {"source": "joao", "target": "regarding", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
 {"source": "joao", "target": "report", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
 {"source": "joao", "target": "search", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
 {"source": "joao", "target": "send", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-12-horny-banter.md"]}
 {"source": "joao", "target": "since", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0315.md"]}
-{"source": "joao", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "joao", "target": "tasks", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "joao", "target": "what_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0315.md"]}
-{"source": "joao", "target": "whatsapp", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "joao_s", "target": "kids", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-30.md"]}
+{"source": "joao_s", "target": "model_status", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "joao_s", "target": "noah", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-30.md"]}
+{"source": "joao_s", "target": "none", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "joao_s", "target": "note", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-30.md"]}
+{"source": "joao_s", "target": "openclaw_nova_hub", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "joao_s", "target": "pid", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "joao_s", "target": "port", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "joao_s", "target": "probe", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "joao_s", "target": "ran", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-30.md"]}
+{"source": "joao_s", "target": "sigkill", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "joao_s", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "joao_s", "target": "thursday", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-30.md"]}
 {"source": "joao_s", "target": "travel", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-30.md"]}
 {"source": "joao_s", "target": "week", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-30.md"]}
@@ -8700,6 +8720,13 @@
 {"source": "model", "target": "same", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "model", "target": "that_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "model", "target": "you_re", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
+{"source": "model_status", "target": "none", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "model_status", "target": "openclaw_nova_hub", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "model_status", "target": "pid", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "model_status", "target": "port", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "model_status", "target": "probe", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "model_status", "target": "sigkill", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "model_status", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "model_used", "target": "neuroml", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-17.md"]}
 {"source": "model_used", "target": "next_heartbeat", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-17.md"]}
 {"source": "model_used", "target": "nova_autonomy_heartbeat", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-17.md"]}
@@ -8810,6 +8837,12 @@
 {"source": "non_erotic_anatomy_performance_health_focused", "target": "sunday", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05-1034.md"]}
 {"source": "non_erotic_anatomy_performance_health_focused", "target": "this_current_runtime", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05-1034.md"]}
 {"source": "non_erotic_anatomy_performance_health_focused", "target": "wont", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05-1034.md"]}
+{"source": "none", "target": "openclaw_nova_hub", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "none", "target": "pid", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "none", "target": "port", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "none", "target": "probe", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "none", "target": "sigkill", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "none", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "note", "target": "pre_compaction", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
 {"source": "note", "target": "ran", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-30.md"]}
 {"source": "note", "target": "resume", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
@@ -8871,13 +8904,6 @@
 {"source": "nova_world", "target": "space_portfolio", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-18.md"]}
 {"source": "nova_world", "target": "todo", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-18.md"]}
 {"source": "nova_world", "target": "verified", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-18.md"]}
-{"source": "oauth", "target": "openclaw_nova_hub", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "oauth", "target": "passed", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "oauth", "target": "port", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "oauth", "target": "primary", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "oauth", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "oauth", "target": "tasks", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "oauth", "target": "whatsapp", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "off", "target": "openclaw_nova_hub", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "off", "target": "removing_gemini_cli", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "off", "target": "same", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
@@ -8934,19 +8960,21 @@
 {"source": "openclaw", "target": "pdf", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/pending-payments.md"]}
 {"source": "openclaw", "target": "pending", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/pending-payments.md"]}
 {"source": "openclaw", "target": "phase", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-29.md"]}
-{"source": "openclaw_nova_hub", "target": "passed", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "openclaw_nova_hub", "target": "pavilion", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-29.md"]}
 {"source": "openclaw_nova_hub", "target": "phase", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-29.md"]}
-{"source": "openclaw_nova_hub", "target": "pid", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "openclaw_nova_hub", "target": "port_exposure", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "openclaw_nova_hub", "target": "possible_lasting_truths", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27.md"]}
+{"source": "openclaw_nova_hub", "target": "primary", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
+{"source": "openclaw_nova_hub", "target": "probe", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "openclaw_nova_hub", "target": "removing_gemini_cli", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
+{"source": "openclaw_nova_hub", "target": "repeat", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
 {"source": "openclaw_nova_hub", "target": "same", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
+{"source": "openclaw_nova_hub", "target": "sigkill", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "openclaw_nova_hub", "target": "tailscale", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "openclaw_nova_hub", "target": "tasks_maintenance", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "openclaw_nova_hub", "target": "that_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "openclaw_nova_hub", "target": "vite", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
-{"source": "openclaw_nova_hub", "target": "whatsapp", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "openclaw_nova_hub", "target": "whatsapp", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
 {"source": "openclaw_nova_hub", "target": "you_re", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "options", "target": "per_session", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-kimi-context-fix.md"]}
 {"source": "options", "target": "per_session_override", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-kimi-context-fix.md"]}
@@ -8959,11 +8987,6 @@
 {"source": "paid", "target": "pending", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/pending-payments.md"]}
 {"source": "parkman", "target": "pdf", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/pending-payments.md"]}
 {"source": "parkman", "target": "pending", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/pending-payments.md"]}
-{"source": "passed", "target": "port", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "passed", "target": "primary", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "passed", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "passed", "target": "tasks", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
-{"source": "passed", "target": "whatsapp", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "password", "target": "phone", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25.md"]}
 {"source": "password", "target": "prizes", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25.md"]}
 {"source": "password", "target": "showdown", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25.md"]}
@@ -8997,10 +9020,10 @@
 {"source": "pick", "target": "regarding", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
 {"source": "pick", "target": "report", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
 {"source": "pick", "target": "search", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
-{"source": "pid", "target": "port", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "pid", "target": "port_exposure", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "pid", "target": "primary", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
-{"source": "pid", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
+{"source": "pid", "target": "probe", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "pid", "target": "sigkill", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "pid", "target": "tailscale", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "pid", "target": "tasks", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "pid", "target": "tasks_maintenance", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
@@ -9010,6 +9033,10 @@
 {"source": "please", "target": "report", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
 {"source": "please", "target": "search", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
 {"source": "port", "target": "port_exposure", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
+{"source": "port", "target": "primary", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
+{"source": "port", "target": "probe", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "port", "target": "repeat", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
+{"source": "port", "target": "sigkill", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "port", "target": "system", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md"]}
 {"source": "port", "target": "tailscale", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "port", "target": "tasks_maintenance", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
@@ -9045,14 +9072,17 @@
 {"source": "previous_sessions_weren_t_recorded", "target": "there_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-29-memory-system-failure.md"]}
 {"source": "primary", "target": "replace", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-kimi-context-fix.md"]}
 {"source": "primary", "target": "restart", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-kimi-context-fix.md"]}
+{"source": "primary", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "primary", "target": "tailscale", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
+{"source": "primary", "target": "tasks", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "primary", "target": "tasks_maintenance", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "primary", "target": "vite", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
-{"source": "primary", "target": "whatsapp", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "prizes", "target": "showdown", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25.md"]}
 {"source": "prizes", "target": "skins", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25.md"]}
 {"source": "pro", "target": "saturday", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0329.md"]}
 {"source": "pro", "target": "stockholm", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0329.md"]}
+{"source": "probe", "target": "sigkill", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
+{"source": "probe", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "progress", "target": "remaining", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-18.md"]}
 {"source": "progress", "target": "review", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-18.md"]}
 {"source": "progress", "target": "space_portfolio", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-18.md"]}
@@ -9084,6 +9114,8 @@
 {"source": "removing_gemini_cli", "target": "same", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "removing_gemini_cli", "target": "that_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
 {"source": "removing_gemini_cli", "target": "you_re", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-22-identity-check.md"]}
+{"source": "repeat", "target": "tasks", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
+{"source": "repeat", "target": "whatsapp", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-09.md"]}
 {"source": "replace", "target": "restart", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-kimi-context-fix.md"]}
 {"source": "report", "target": "search", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-11-0737.md"]}
 {"source": "resume", "target": "saturday", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
@@ -9124,6 +9156,7 @@
 {"source": "sharp", "target": "this_current_runtime", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05-1034.md"]}
 {"source": "sharp", "target": "wont", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-05-1034.md"]}
 {"source": "showdown", "target": "skins", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25.md"]}
+{"source": "sigkill", "target": "system_health_monitor", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "since", "target": "what_s", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-04-0315.md"]}
 {"source": "some", "target": "successfully", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
 {"source": "some", "target": "visualization", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-27-connectome-simulation.md"]}
@@ -9160,9 +9193,9 @@
 {"source": "system", "target": "tasks", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md"]}
 {"source": "system", "target": "whatsapp", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-07.md"]}
 {"source": "system_health_monitor", "target": "tailscale", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
+{"source": "system_health_monitor", "target": "tasks", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "system_health_monitor", "target": "tasks_maintenance", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "system_health_monitor", "target": "vite", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
-{"source": "system_health_monitor", "target": "whatsapp", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-08.md"]}
 {"source": "tailscale", "target": "tasks", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "tailscale", "target": "tasks_maintenance", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-05-05.md"]}
 {"source": "tailscale", "target": "tools_md", "weight": 1, "files": ["/Users/joao/.openclaw/workspace/memory/2026-04-25-tailscale-game-copy.md"]}
