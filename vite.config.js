@@ -1,11 +1,11 @@
 export default {
   base: '/nonof-brawl-stars/',
-      root: 'build',
-      build: {
+  root: 'build',
+  build: {
     outDir: 'dist'
-      },
-        server: {
+  },
+  server: {
     port: 8765,
-          host: true
-      }
+    host: true
+  }
 }

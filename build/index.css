@@ -1,0 +1,20 @@
+
+/* Animated Ammo Visualization */
+.ammo-slot {
+    background: rgba(0, 0, 0, 0.6);
+    border: 2px solid var(--brawl-dark-blue);
+    overflow: hidden;
+    position: relative;
+    border-radius: 4px;
+    box-shadow: inset 0 0 5px rgba(0,0,0,0.8);
+}
+.ammo-slot.filled {
+    background: rgba(0, 0, 0, 0.6); /* override the old solid color */
+}
+.ammo-fill {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(to bottom, #00ffff, var(--brawl-blue));
+    box-shadow: 0 0 10px rgba(0, 212, 255, 0.8);
+    transition: width 0.05s linear;
+}
