@@ -45,9 +45,9 @@ export const BRAWLERS = {
     bear: {
         id: 'bear',
         name: 'Solar Paws',
-        image: 'sprites/bear_brawler.png',
+        image: 'sprites/bear_brawler.jpg',
         skins: [
-            { id: 'default', name: 'Original', image: 'sprites/bear_brawler.png' },
+            { id: 'default', name: 'Original', image: 'sprites/bear_brawler.jpg' },
             { id: 'polar', name: 'Polar Bear', image: 'sprites/bear_polar.png' }
         ],
         hp: 3600,
@@ -72,9 +72,9 @@ export const BRAWLERS = {
     caveman: {
         id: 'caveman',
         name: 'Punk Bonker',
-        image: 'sprites/caveman_brawler.png',
+        image: 'sprites/caveman_brawler.jpg',
         skins: [
-            { id: 'default', name: 'Original', image: 'sprites/caveman_brawler.png' },
+            { id: 'default', name: 'Original', image: 'sprites/caveman_brawler.jpg' },
             { id: 'gold', name: 'Golden Clubba', image: 'sprites/caveman_gold.png' }
         ],
         hp: 4200,
@@ -98,9 +98,9 @@ export const BRAWLERS = {
     eagle: {
         id: 'eagle',
         name: 'Aviator Ace',
-        image: 'sprites/eagle_brawler.png',
+        image: 'sprites/eagle_brawler.jpg',
         skins: [
-            { id: 'default', name: 'Original', image: 'sprites/eagle_brawler.png' },
+            { id: 'default', name: 'Original', image: 'sprites/eagle_brawler.jpg' },
             { id: 'cyber', name: 'Cyber Eagle', image: 'sprites/eagle_cyber.png' }
         ],
         hp: 3200,
@@ -124,9 +124,9 @@ export const BRAWLERS = {
     bombardier: {
         id: 'bombardier',
         name: 'Blast King',
-        image: 'sprites/bombardier_brawler.png',
+        image: 'sprites/bombardier_brawler.jpg',
         skins: [
-            { id: 'default', name: 'Original', image: 'sprites/bombardier_brawler.png' }
+            { id: 'default', name: 'Original', image: 'sprites/bombardier_brawler.jpg' }
         ],
         hp: 3000,
         speed: 700,
@@ -151,7 +151,7 @@ export const BRAWLERS = {
     medic: {
         id: 'medic',
         name: 'Bio-Healer',
-        image: 'sprites/medic_brawler.png',
+        image: 'sprites/medic_brawler.jpg',
         hp: 3800,
         speed: 720,
         damage: 600,
@@ -171,7 +171,7 @@ export const BRAWLERS = {
     hex: {
         id: 'hex',
         name: 'Shadow DJ',
-        image: 'sprites/hex_brawler.png',
+        image: 'sprites/hex_brawler.jpg',
         hp: 2600,
         speed: 820,
         damage: 600,
@@ -191,7 +191,7 @@ export const BRAWLERS = {
     ironclad: {
         id: 'ironclad',
         name: 'Mecha-Unit',
-        image: 'sprites/ironclad_brawler.png',
+        image: 'sprites/ironclad_brawler.jpg',
         hp: 6500,
         speed: 480,
         damage: 1400,
@@ -212,7 +212,7 @@ export const BRAWLERS = {
     blade: {
         id: 'blade',
         name: 'Cyber Ninja',
-        image: 'sprites/blade_brawler.png',
+        image: 'sprites/blade_brawler.jpg',
         hp: 3000,
         speed: 950,
         damage: 500,
@@ -232,7 +232,7 @@ export const BRAWLERS = {
     archer: {
         id: 'archer',
         name: 'Hooded Gamer',
-        image: 'sprites/archer_brawler.png',
+        image: 'sprites/archer_brawler.jpg',
         hp: 3000,
         speed: 720,
         damage: 650,
