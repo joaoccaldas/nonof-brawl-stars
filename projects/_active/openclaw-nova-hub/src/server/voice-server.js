@@ -254,11 +254,19 @@ app.post('/api/action', express.json(), async (req, res) => {
   }
 
   try {
-    const { execSync } = await import('child_process');
-    const output = execSync(safeCommand, { 
-      encoding: 'utf8', 
-      timeout: 60000,
-      stdio: ['pipe', 'pipe', 'pipe']
+    const { exec } = await import('child_process');
+    const output = await new Promise((resolve, reject) => {
+      exec(safeCommand, { 
+        encoding: 'utf8', 
+        timeout: 60000,
+        maxBuffer: 1024 * 1024
+      }, (error, stdout, stderr) => {
+        if (error) {
+          reject({ message: error.message, stdout, stderr });
+        } else {
+          resolve(stdout);
+        }
+      });
     });
     res.json({ ok: true, output: output.slice(0, 500) });
   } catch (e) {

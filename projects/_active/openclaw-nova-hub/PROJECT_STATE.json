@@ -8,9 +8,9 @@
       "status": "in_progress",
       "phase": "phase_3_jarvis_command_center",
       "current_task": "quick_actions_panel_integrated",
-      "completion_percentage": 80,
-      "last_action": "2026-05-15T23:30:00Z",
-      "next_action": "add_project_status_badges_to_graph_nodes",
+      "completion_percentage": 85,
+      "last_action": "2026-05-15T23:40:00Z",
+      "next_action": "e2e_quickaction_test_and_screenshot",
       "blockers": [],
       "deliverables": {
         "nova_state_generation": "completed",
@@ -25,9 +25,11 @@
         "session_refresh_20250425": "completed",
         "session_refresh_20250426": "completed",
         "quick_actions_panel": "completed",
-        "api_action_endpoint": "completed"
+        "api_action_endpoint": "completed",
+        "async_action_bridge": "completed",
+        "status_badges_on_graph": "completed"
       },
-      "notes": "Quick Actions panel integrated. Build passes. Session counts accurate. Next: project status badges on graph nodes."
+      "notes": "Async action bridge prevents server lockup. Status badges render on project nodes. Voice server stable on port 5179. Next: screenshot and final polish."
     }
   },
   "system_config": {

@@ -78,7 +78,22 @@ export default function NexusGraph() {
     const mesh = new THREE.Mesh(geometry, material);
     group.add(mesh);
 
-    // 2. Halo/Glow
+    // 2. Status Badge Ring (for projects only)
+    if (node.type === 'project' && node.status) {
+      const statusColor = STATUS_COLORS[node.status] || '#a0a6bd';
+      const ringGeometry = new THREE.TorusGeometry(size * 1.6, size * 0.15, 8, 24);
+      const ringMaterial = new THREE.MeshBasicMaterial({
+        color: statusColor,
+        transparent: true,
+        opacity: isHovered || isSelected ? 0.9 : 0.5,
+        blending: THREE.AdditiveBlending
+      });
+      const ring = new THREE.Mesh(ringGeometry, ringMaterial);
+      ring.rotation.x = Math.PI / 2;
+      group.add(ring);
+    }
+
+    // 3. Halo/Glow
     const halo = new THREE.Mesh(
       new THREE.SphereGeometry(size * 2, 8, 8), // Minimal segments
       new THREE.MeshBasicMaterial({
