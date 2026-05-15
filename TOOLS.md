@@ -25,8 +25,13 @@
 - Local daemon: `http://127.0.0.1:11434`
 - Cloud model auth: `ollama signin` (weekly quota limits apply). After `ollama signin`, the local Ollama daemon automatically handles authentication and token management for cloud models. There is no explicit `ollama refresh-token` command. `ollama run <cloud-model-name>` serves as a robust probe to verify the entire authentication chain (local client auth, token acquisition, cloud service access).
 - **Troubleshooting Tip**: If an Ollama cloud model is configured but not active, running `ollama pull <model-name>` (e.g., `ollama pull minimax-m2.5:cloud`) can often resolve underlying Ollama client issues by re-registering or activating the model's manifest.
-#### Current Status
-- `minimax-m2.5:cloud`: Rate limited since 2026-04-09T18:24:49Z. Reset hint: your weekly usage limit, upgrade for higher limits.
+#### Current Status (Updated: 2026-05-15)
+- **PRIMARY:** `kimi-k2.6:cloud` — Active, reasoning-enabled, excellent performance (~63 tok/s)
+- **FALLBACK #1:** `gemma4:31b-cloud` — Apache 2.0, multimodal, fast (~128 tok/s)
+- **FALLBACK #2:** `kimi-k2.5:cloud` — Previous primary, kept for redundancy
+- **FALLBACK #3:** `openai-codex/gpt-5.4` — OAuth, 200K context, text+image
+- **FALLBACK #4:** `qwen2.5-coder:14b` — Local, no quota limits, coding specialist
+- ❌ `minimax-m2.5:cloud`: Rate limited since 2026-04-09, removed from fallbacks
 
 ---
 
@@ -140,3 +145,26 @@ Before saying a service is inaccessible, verify the live path.
 - Local/workspace files: `read`, `write`, `edit`, `exec`
 
 Lack of immediate recall is not lack of capability.
+
+---
+
+## Local-First Architecture (2026-05-15)
+
+**Principle:** Private projects stay local. Only public portfolio pieces go to GitHub.
+
+### Port
+- `5181` — Nova Hub (production build, local serve)
+- `5177` — Nova Hub dev server
+- `5179` — Voice API server
+- `5150-5170` — Reserved for games (Adeline server, Tucano, etc.)
+- `5182-5190` — Reserved for family dashboards/tools
+- `5200-5299` — Reserved for data/API services
+
+### Tailscale
+- All local services exposed via `*.tail35034d.ts.net`
+- Nova Hub: `https://joaos-macbook-air.tail35034d.ts.net/nova`
+
+### GitHub Strategy
+- Local-first for all private work
+- Only public portfolio/demos pushed to GitHub
+- Private repos remain local-only (no cloud exposure)

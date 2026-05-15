@@ -1,0 +1,357 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  min-height: 100vh;
+  min-height: 100dvh;
+}
+
+/* === NOVA HUB v2.0 BACKGROUND — Nexus Image Full Coverage === */
+body {
+  background-color: #050810;
+  background-image:
+    /* Darkening overlay for text readability */
+    linear-gradient(to bottom, rgba(5, 8, 16, 0.2) 0%, rgba(5, 8, 16, 0.6) 100%),
+    /* The nexus image — full cover */
+    url('/nexus-backdrop.jpg'),
+    /* Fallback void */
+    radial-gradient(circle at 50% 50%, #0a1628 0%, #050810 100%);
+  background-size: cover, cover, auto;
+  background-position: center, center center, center;
+  background-repeat: repeat, no-repeat, repeat;
+  background-attachment: scroll, fixed, scroll;
+}
+
+/* Strong vignette for edge readability */
+body::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: 
+    radial-gradient(ellipse 120% 120% at 50% 50%, transparent 20%, rgba(5, 8, 16, 0.5) 50%, rgba(5, 8, 16, 0.95) 100%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Container above overlay */
+#root {
+  position: relative;
+  z-index: 1;
+}
+
+/* Mobile adjustments for background */
+@media (max-width: 768px) {
+  body {
+    /* On mobile, position image to show the nexus center */
+    background-position: center 30%, center center, center;
+    background-size: cover, cover, auto;
+  }
+}
+
+/* Animated energy pulses */
+body::before {
+  content: '';
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 600px;
+  height: 600px;
+  transform: translate(-50%, -50%);
+  background: 
+    radial-gradient(circle, rgba(6, 182, 212, 0.15) 0%, transparent 50%),
+    radial-gradient(circle, rgba(37, 99, 235, 0.1) 0%, transparent 60%);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+  animation: nexus-breathe 6s ease-in-out infinite;
+}
+
+@keyframes nexus-breathe {
+  0%, 100% { 
+    opacity: 0.5;
+    transform: translate(-50%, -50%) scale(1);
+  }
+  50% { 
+    opacity: 0.8;
+    transform: translate(-50%, -50%) scale(1.1);
+  }
+}
+
+/* Quantum nodes - hard-edged glowing points */
+.quantum-node {
+  position: relative;
+}
+.quantum-node::before {
+  content: '';
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  background: #06b6d4;
+  border: 2px solid #2563eb;
+  box-shadow: 
+    0 0 10px #06b6d4,
+    0 0 20px rgba(6, 182, 212, 0.5);
+  animation: node-pulse 3s ease-in-out infinite;
+}
+
+@keyframes node-pulse {
+  0%, 100% { 
+    transform: scale(1);
+    opacity: 0.8;
+  }
+  50% { 
+    transform: scale(1.3);
+    opacity: 1;
+    box-shadow: 
+      0 0 15px #06b6d4,
+      0 0 30px rgba(251, 191, 36, 0.4);
+  }
+}
+
+/* Subtle grid overlay */
+.grid-veil {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 48px 48px;
+  background-position: -1px -1px;
+  mask-image: radial-gradient(ellipse at center, black 55%, transparent 100%);
+}
+
+/* === GLASS SURFACES === */
+.glass {
+  background: rgba(5, 8, 16, 0.75);
+  border: 1px solid rgba(37, 99, 235, 0.2);
+  backdrop-filter: blur(20px) saturate(150%);
+  -webkit-backdrop-filter: blur(20px) saturate(150%);
+}
+.glass-hover:hover {
+  border-color: rgba(6, 182, 212, 0.5);
+  background: rgba(5, 8, 16, 0.85);
+  box-shadow: 0 0 30px rgba(6, 182, 212, 0.3);
+}
+
+/* Gold accent glass */
+.glass-gold {
+  background: linear-gradient(135deg, rgba(120, 53, 15, 0.3), rgba(10, 22, 40, 0.9));
+  border: 1px solid rgba(202, 138, 4, 0.3);
+}
+.glass-gold:hover {
+  border-color: rgba(251, 191, 36, 0.6);
+  box-shadow: 0 0 40px -10px rgba(251, 191, 36, 0.4);
+}
+
+/* === TEXT GRADIENTS === */
+.text-gradient {
+  background: linear-gradient(92deg, #7dd3fc 0%, #2563eb 40%, #fbbf24 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.text-gradient-gold {
+  background: linear-gradient(92deg, #fbbf24 0%, #fde047 50%, #7dd3fc 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* === SHIMMER EFFECTS === */
+.shimmer {
+  background-image: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(251, 191, 36, 0.2) 50%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  background-size: 200% 100%;
+}
+
+.gold-shimmer {
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(251, 191, 36, 0.3) 50%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer-gold 3s linear infinite;
+}
+
+@keyframes shimmer-gold {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+/* === NOVA PRESENCE === */
+.nova-glow {
+  box-shadow: 
+    0 0 60px -15px rgba(37, 99, 235, 0.5),
+    0 0 100px -20px rgba(6, 182, 212, 0.3),
+    inset 0 0 40px -10px rgba(251, 191, 36, 0.1);
+  animation: nova-pulse 4s ease-in-out infinite;
+}
+
+@keyframes nova-pulse {
+  0%, 100% { 
+    opacity: 0.8;
+    box-shadow: 
+      0 0 60px -15px rgba(37, 99, 235, 0.5),
+      0 0 100px -20px rgba(6, 182, 212, 0.3);
+  }
+  50% { 
+    opacity: 1;
+    box-shadow: 
+      0 0 80px -10px rgba(37, 99, 235, 0.7),
+      0 0 120px -15px rgba(251, 191, 36, 0.4);
+  }
+}
+
+/* === ACTIVE/HIGHLIGHT STATES === */
+.active-blue {
+  background: linear-gradient(160deg, #1a3a5c 0%, #2563eb 60%, #06b6d4 100%);
+  border: 1px solid rgba(6, 182, 212, 0.5);
+}
+
+.active-gold {
+  background: linear-gradient(135deg, #78350f 0%, #ca8a04 50%, #fbbf24 100%);
+  border: 1px solid rgba(251, 191, 36, 0.6);
+}
+
+/* === Custom scrollbar === */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(10, 22, 40, 0.5);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(37, 99, 235, 0.3);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(37, 99, 235, 0.5);
+}
+
+/* Focus ring - gold accent */
+:focus-visible {
+  outline: 2px solid rgba(251, 191, 36, 0.6);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* Prevent layout jump on font load */
+html {
+  font-feature-settings: 'ss01', 'cv11';
+}
+
+/* ===== MOBILE TOUCH OPTIMIZATIONS ===== */
+
+@supports (padding: max(0px)) {
+  .mobile-safe-area {
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-right: max(1rem, env(safe-area-inset-right));
+    padding-bottom: max(1rem, env(safe-area-inset-bottom));
+  }
+  
+  .mobile-safe-top {
+    padding-top: max(1rem, env(safe-area-inset-top));
+  }
+}
+
+@media (pointer: coarse) {
+  button,
+  [role="button"],
+  a,
+  input,
+  select,
+  textarea,
+  [tabindex]:not([tabindex="-1"]) {
+    min-height: 48px;
+    min-width: 48px;
+  }
+  
+  .btn-touch {
+    min-height: 48px;
+    min-width: 48px;
+    padding: 12px 20px;
+  }
+  
+  .voice-mic-btn {
+    min-height: 64px;
+    min-width: 64px;
+  }
+  
+  .touch-gap > * + * {
+    margin-top: 12px;
+  }
+  
+  .no-select {
+    user-select: none;
+    -webkit-user-select: none;
+  }
+  
+  .scroll-touch {
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
+  }
+  
+  button,
+  [role="button"] {
+    touch-action: manipulation;
+  }
+}
+
+@media (max-width: 640px) {
+  .mobile-compact {
+    padding: 0.75rem;
+  }
+  
+  .mobile-full-width {
+    width: 100%;
+  }
+  
+  .mobile-readable {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .glass {
+    backdrop-filter: blur(10px) saturate(120%);
+    -webkit-backdrop-filter: blur(10px) saturate(120%);
+  }
+  
+  .voice-chat-modal {
+    align-items: flex-end !important;
+    padding: 0 !important;
+  }
+  
+  .voice-chat-modal > div {
+    max-width: 100% !important;
+    margin: 0 !important;
+    border-radius: 24px 24px 0 0 !important;
+    min-height: 70vh !important;
+  }
+}
+
+@media (max-height: 500px) and (orientation: landscape) {
+  .mobile-landscape {
+    padding: 0.5rem;
+  }
+  
+  .mobile-landscape-hide {
+    display: none;
+  }
+}

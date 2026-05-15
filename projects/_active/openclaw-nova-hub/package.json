@@ -1,0 +1,48 @@
+{
+  "name": "openclaw-nova-hub",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Second-brain entry-point dashboard for all openclaw-nova projects.",
+  "scripts": {
+    "scan": "node scripts/scan.mjs",
+    "scan-media": "node scripts/scan-media-files.mjs",
+    "scan-knowledge": "node scripts/scan-knowledge-pipeline.mjs",
+    "scan-contacts": "node scripts/scan-contacts.mjs",
+    "scan-youtube": "node scripts/scan-youtube.mjs",
+    "scan-second-brain": "node scripts/scan-second-brain.mjs",
+    "scan-codebase": "node scripts/scan-codebase-graph.mjs",
+    "nova-state": "node scripts/generate-nova-state.mjs",
+    "session-summary": "node scripts/generate-session-summary.mjs",
+    "continuity-status": "node scripts/generate-continuity-status.mjs",
+    "system-bridge": "node scripts/system-bridge.mjs",
+    "openclaw-bridge": "node scripts/openclaw-bridge.mjs",
+    "activity-bridge": "node scripts/activity-bridge.mjs",
+    "watch": "node scripts/watch.mjs",
+    "dev": "vite",
+    "build": "npm run scan-media && npm run scan-knowledge && npm run scan-contacts && npm run scan-youtube && npm run scan-second-brain && npm run scan-codebase && npm run nova-state && npm run session-summary && vite build",
+    "preview": "vite preview",
+    "serve": "node src/server/voice-server.js & npx serve dist -l 5181",
+    "start": "npm run scan && npm run scan-media && npm run scan-knowledge && npm run scan-contacts && npm run scan-youtube && npm run scan-second-brain && npm run scan-codebase && npm run nova-state && (npm run watch & npm run dev)"
+  },
+  "dependencies": {
+    "d3": "^7.9.0",
+    "express": "^5.2.1",
+    "framer-motion": "^11.3.19",
+    "multer": "^2.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-force-graph-3d": "^1.29.1",
+    "sharp": "^0.34.5",
+    "three": "^0.184.0",
+    "three-spritetext": "^1.10.0",
+    "three-stdlib": "^2.36.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.7",
+    "vite": "^5.3.5"
+  }
+}
