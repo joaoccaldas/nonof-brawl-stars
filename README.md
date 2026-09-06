@@ -1,19 +1,14 @@
-IyBOb2FoIEJyYXdsIFN0YXJzCgojIyBBIEJyYXdsIFN0YXJzLUluc3BpcmVk
-IEdhbWUgZm9yIE5vYWgKCkEgcG9saXNoZWQsIGZ1biwgQnJhd2wgU3RhcnMt
-aW5zcGlyZWQgYnJvd3NlciBnYW1lIGJ1aWx0IGZvciBteSBzb24gTm9haC4g
-RmVhdHVyaW5nIHN0cm9uZyBmZWVsLCBwcm9ncmVzc2lvbiwgY2hhcmFjdGVy
-cywgc2tpbnMsIG1hcHMsIGFuZCByZXBlYXRhYmxlIGltcHJvdmVtZW50IGxv
-b3BzLgoKIyMgU3RhdHVzCi0gUGxheWFibGUgYnJvd3NlciBnYW1lIGV4aXN0
-cwotIDMgYnJhd2xlcnMgaW1wbGVtZW50ZWQKLSBCYWNrZ3JvdW5kIHNjZW5l
-IGludGVncmF0ZWQKLSBQcm9ncmVzc2lvbiwgcXVlc3RzLCBnYWRnZXRzLCBz
-dGFyIHBvd2Vycywgc2tpbnMsIGFuZCBtYXAgbG9naWMgcGFydGlhbGx5IGlt
-cGxlbWVudGVkCgojIyBQcmlvcml0aWVzCjEuIENvbWJhdCBmZWVsIGFuZCBi
-dWcgZml4aW5nCjIuIENoYXJhY3RlciBpZGVudGl0eSBhbmQgYWJpbGl0aWVz
-CjMuIFByb2dyZXNzaW9uIGFuZCB1bmxvY2sgbG9vcAo0LiBVSSBwb2xpc2gg
-YW5kIGNsYXJpdHkKNS4gTWFwcywgcHJvcHMsIGFuZCBzcGVjdGFjbGUKCiMj
-IFRlY2hub2xvZ3kKLSBIVE1MNSBDYW52YXMgZm9yIGdyYXBoaWNzIHJlbmRl
-cmluZwotIEphdmFTY3JpcHQgRVM2KyBmb3IgZ2FtZSBsb2dpYwotIFJlc3Bv
-bnNpdmUgZGVzaWduIGZvciBtb2JpbGUgYW5kIGRlc2t0b3AKCiMjIFN0YXR1
-cwpBY3RpdmUgZGV2ZWxvcG1lbnQuIEJ1aWx0IHdpdGggTm9haCBhbmQgaW1w
-cm92ZWQgYnNlZCBvbiBoaXMgZmVlZGJhY2suCgoqIkJ1aWx0IGJ5IEpryZv2
-8IENhbGRhcyBmb3IgTm9haCB8IGpvYW9jY2FsZGFzQGdtYWlsLmNvbSIqKgo=
+# Brawl Stars Fan Game — Privacy Quarantine
+
+The public default branch has been temporarily reduced to this notice after a privacy review found a child/family identifier duplicated across source, generated builds, documentation, filenames, comments, and local machine paths.
+
+The project history is preserved for recovery. Before restoring the game to the public default branch, rebuild it with anonymous project naming and synthetic profile data.
+
+## Public-source rules
+
+- Do not use a child's or family member's real name in titles, filenames, sample profiles, comments, generated builds, or documentation.
+- Do not commit local absolute filesystem paths.
+- Keep generated builds reproducible from sanitized source rather than committing multiple historical personal variants.
+- Do not include personal contact, school, schedule, location, or account information.
+
+Older commits may still contain removed identifiers. This default-branch quarantine is containment, not a Git-history purge.
